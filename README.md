@@ -1,7 +1,8 @@
 Author: Olivia Pitcl
-Random Walk in 3, 3, and 1 dimensions
+Random Walk in 3, 2, and 1 dimensions
 
 To run:
+
 	- compile
 	So long as the makefile is in your current directory, type 'make' on
 	the command line to compile the current c file.
